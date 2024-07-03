@@ -1,12 +1,11 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Author": "Koizumi",
+  "Name": "Craft Remaining",
+  "Punchline": "A simple plugin that displays how much progress and quality is remaining for your craft.",
+  "Description": "A simple plugin that displays how much progress and quality is remaining for your craft, without having to do the maths! Great to use in conjunction with Calculations or SimpleTweaks Improved Crafter Tooltips.",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "crafting"
+  ],
+  "IconUrl":""
 }
