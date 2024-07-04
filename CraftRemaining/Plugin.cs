@@ -13,7 +13,7 @@ using System;
 using FFXIVClientStructs.FFXIV.Component.GUI;
 using Dalamud.Logging.Internal;
 
-namespace SamplePlugin;
+namespace CraftRemaining;
 
 public unsafe class Plugin : IDalamudPlugin
 {
@@ -29,7 +29,7 @@ public unsafe class Plugin : IDalamudPlugin
 
     public Configuration Configuration { get; init; }
 
-    public readonly WindowSystem WindowSystem = new("SamplePlugin");
+    public readonly WindowSystem WindowSystem = new("CraftRemaining");
 
     public Plugin()
     {

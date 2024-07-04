@@ -4,8 +4,6 @@
   "Punchline": "A simple plugin that displays how much progress and quality is remaining for your craft.",
   "Description": "A simple plugin that displays how much progress and quality is remaining for your craft, without having to do the maths! Great to use in conjunction with Calculations or SimpleTweaks Improved Crafter Tooltips.",
   "ApplicableVersion": "any",
-  "Tags": [
-    "crafting"
-  ],
-  "IconUrl":""
+  "Tags": ["crafting"],
+  "IconUrl":"https://raw.githubusercontent.com/KoizumiChan/CraftRemnantsXIV/master/icon.png"
 }
